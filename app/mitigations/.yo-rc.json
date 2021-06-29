@@ -1,0 +1,17 @@
+{
+  "@sapui5/generator-sapui5-templates": {
+    "promptValues": {
+      "ApplicationTitle": "Mitigations",
+      "ApplicationDescription": "Mitigations",
+      "FLP": false,
+      "GroupId": "$auto",
+      "ServiceBaseUri": "http://localhost:4004/service/risk",
+      "DatasourceUrl": "/service/risk",
+      "ObjectCollection": "Mitigations",
+      "ObjectCollection_Key": "ID",
+      "Object_Identifier": "ID",
+      "Object_Number": "",
+      "Object_UnitOfMeasure": ""
+    }
+  }
+}

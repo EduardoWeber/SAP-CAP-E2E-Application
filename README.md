@@ -20,6 +20,8 @@ Recommended project layout:
 
 ## Deploy
 
+Ps: To deploy use branch [deploy-to-sap-btp](https://github.com/EduardoWeber/SAP-CAP-E2E-Application/tree/deploy-to-sap-btp)
+
 - Build with `mtb build -t ./`
 - Deploy with `cf deploy cpapp_1.0.0.mtar`
 
